@@ -114,7 +114,8 @@ tetris-game/
 └── .github/
     └── copilot-instructions.md  # Development guidelines
 ```
-
+## Game Screenshot
+![Alt text](Ovi_tetris.jpg?raw=true "Title")
 ## 🎯 Game Mechanics
 
 ### Piece Movement
@@ -194,8 +195,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
+Syed Rafi Ahmed
+Mentor: M asif Hasan Ovi (Powered by Claude Ai sonnet 3.7)
+Email: rafi00798@gmail.com
 Project Link: [https://github.com/yourusername/tetris-game](https://github.com/yourusername/tetris-game)
 
 ---
