@@ -1,4 +1,4 @@
-# Tetris_demo-game-by-pyga
+# Tetris_demo-game-by-pygame
 
 A classic Tetris game implementation built with Python and Pygame. Features smooth gameplay, scoring system, level progression, and all the standard Tetris mechanics you know and love!
 
